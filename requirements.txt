@@ -1,0 +1,7 @@
+torch
+torchvision
+torchmetrics
+seaborn
+scki-learn
+torchsummary
+tqdm
